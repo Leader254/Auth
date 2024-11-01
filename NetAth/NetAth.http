@@ -1,0 +1,6 @@
+@NetAth_HostAddress = http://localhost:5152
+
+GET {{NetAth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
